@@ -1,2 +1,2 @@
-# Probability-Theory-and-Mathematical-Statistics
-Probability Theory and Mathematical Statistics class materials of CUC
+# 概率论与梳理统计
+中国传媒大学《概率论与数理统计》笔记、经典题目以及相关阅读材料
